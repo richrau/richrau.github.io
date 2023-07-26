@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leadership | Richard Rau</title>
+    <link>/tags/leadership/</link>
+      <atom:link href="/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <description>leadership</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>leadership</title>
+      <link>/tags/leadership/</link>
+    </image>
+    
+    <item>
+      <title>Can other-derogation be beneficial? Seeing others as low in agency can lead to an agentic reputation in newly formed face-to-face groups</title>
+      <link>/publication/2019_01_01_rau_et_al-2019-agentic_complementarity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_01_01_rau_et_al-2019-agentic_complementarity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cognitive map | Björn Meder</title>
+    <link>/tags/cognitive-map/</link>
+      <atom:link href="/tags/cognitive-map/index.xml" rel="self" type="application/rss+xml" />
+    <description>cognitive map</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>cognitive map</title>
+      <link>/tags/cognitive-map/</link>
+    </image>
+    
+    <item>
+      <title>Similarities and differences in spatial and non-spatial cognitive maps</title>
+      <link>/publication/2020-01-01_wu-2020neurogrid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_wu-2020neurogrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

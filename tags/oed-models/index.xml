@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OED models | Björn Meder</title>
+    <link>/tags/oed-models/</link>
+      <atom:link href="/tags/oed-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>OED models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>OED models</title>
+      <link>/tags/oed-models/</link>
+    </image>
+    
+    <item>
+      <title>Stepwise versus globally optimal search in children and adults</title>
+      <link>/publication/2019-10-01-meder_2020stepwise/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-10-01-meder_2020stepwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized information theory meets human cognition: Introducing a unified framework to model uncertainty and information search</title>
+      <link>/publication/2018-01-01_crupi-2018entropy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crupi-2018entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a theory of heuristic and optimal planning for sequential information search</title>
+      <link>/publication/2020-01-01_nelson-2018sequential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_nelson-2018sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asking better questions: How presentation formats influence information search</title>
+      <link>/publication/2017-01-01_wu_2017turtle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_wu_2017turtle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children&#39;s sequential information search is sensitive to environmental probabilities</title>
+      <link>/publication/2014-01-01_nelson-2014children/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_nelson-2014children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information search with situation-specific reward functions</title>
+      <link>/publication/2012-01-01_meder-2012wr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_meder-2012wr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

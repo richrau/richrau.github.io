@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>person judgment | Richard Rau</title>
+    <link>/tags/person-judgment/</link>
+      <atom:link href="/tags/person-judgment/index.xml" rel="self" type="application/rss+xml" />
+    <description>person judgment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>person judgment</title>
+      <link>/tags/person-judgment/</link>
+    </image>
+    
+    <item>
+      <title>What is the structure of perceiver effects? On the importance of global positivity and trait-specificity across personality domains and judgment contexts.</title>
+      <link>/publication/2021_03_01_rau_et_al-2018-structure_of_pes/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_03_01_rau_et_al-2018-structure_of_pes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing the best or worst in others: A measure of generalized other-perceptions</title>
+      <link>/publication/2021_02_01_rau_et_al-2021-otape/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_02_01_rau_et_al-2021-otape/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

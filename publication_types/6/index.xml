@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Björn Meder</title>
+    <link>/publication_types/6/</link>
+      <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>6</title>
+      <link>/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>What makes a good query? Prospects for a comprehensive theory of human information acquisition</title>
+      <link>/publication/2022-06-01-what_makes_a_good_query/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-06-01-what_makes_a_good_query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic causal reasoning</title>
+      <link>/publication/2021-12-14_meder-2021diagnostic/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-14_meder-2021diagnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic reasoning</title>
+      <link>/publication/2017-01-01_meder-2017handbook/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_meder-2017handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics: fast, frugal, and smart</title>
+      <link>/publication/2017-01-01_mousavi-2017vu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_mousavi-2017vu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical thinking: No one left behind</title>
+      <link>/publication/2014-01-01_meder-2014cg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_meder-2014cg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olsson, H. | Björn Meder</title>
+    <link>https://bmeder.org/authors/olsson-h./</link>
+      <atom:link href="https://bmeder.org/authors/olsson-h./index.xml" rel="self" type="application/rss+xml" />
+    <description>Olsson, H.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Olsson, H.</title>
+      <link>https://bmeder.org/authors/olsson-h./</link>
+    </image>
+    
+    <item>
+      <title>From causal models to sound heuristic inference</title>
+      <link>https://bmeder.org/publication/2014-01-01_morais-2014causal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2014-01-01_morais-2014causal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

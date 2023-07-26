@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speekenbrink, M. | Björn Meder</title>
+    <link>https://bmeder.org/authors/speekenbrink-m./</link>
+      <atom:link href="https://bmeder.org/authors/speekenbrink-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Speekenbrink, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Speekenbrink, M.</title>
+      <link>https://bmeder.org/authors/speekenbrink-m./</link>
+    </image>
+    
+    <item>
+      <title>Generalization guides human exploration in vast decision spaces</title>
+      <link>https://bmeder.org/publication/2018-01-01_wu-2018grid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2018-01-01_wu-2018grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the unknown: The spatially correlated multi-armed bandit</title>
+      <link>https://bmeder.org/publication/2017-01-01_wu-2017cogscibandit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2017-01-01_wu-2017cogscibandit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple trees in complex forests: Growing Take The Best by approximate Bayesian computation</title>
+      <link>https://bmeder.org/publication/2016-01-01_schulz-2016wy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2016-01-01_schulz-2016wy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

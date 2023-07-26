@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entropy | Björn Meder</title>
+    <link>/tags/entropy/</link>
+      <atom:link href="/tags/entropy/index.xml" rel="self" type="application/rss+xml" />
+    <description>entropy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>entropy</title>
+      <link>/tags/entropy/</link>
+    </image>
+    
+    <item>
+      <title>What makes a good query? Prospects for a comprehensive theory of human information acquisition</title>
+      <link>/publication/2022-06-01-what_makes_a_good_query/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-06-01-what_makes_a_good_query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized information theory meets human cognition: Introducing a unified framework to model uncertainty and information search</title>
+      <link>/publication/2018-01-01_crupi-2018entropy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crupi-2018entropy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

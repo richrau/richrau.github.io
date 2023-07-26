@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>class-conditional independence | Björn Meder</title>
+    <link>/tags/class-conditional-independence/</link>
+      <atom:link href="/tags/class-conditional-independence/index.xml" rel="self" type="application/rss+xml" />
+    <description>class-conditional independence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>class-conditional independence</title>
+      <link>/tags/class-conditional-independence/</link>
+    </image>
+    
+    <item>
+      <title>Naïve and robust: Class-conditional independence in human classification learning</title>
+      <link>/publication/2017-01-01_jarecki-2017cci/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_jarecki-2017cci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

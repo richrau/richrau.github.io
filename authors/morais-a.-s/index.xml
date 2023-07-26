@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morais, A. S. | Björn Meder</title>
+    <link>/authors/morais-a.-s./</link>
+      <atom:link href="/authors/morais-a.-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Morais, A. S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Morais, A. S.</title>
+      <link>/authors/morais-a.-s./</link>
+    </image>
+    
+  </channel>
+</rss>

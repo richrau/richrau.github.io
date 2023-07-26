@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schulz, E. | Björn Meder</title>
+    <link>https://bmeder.org/authors/schulz-e./</link>
+      <atom:link href="https://bmeder.org/authors/schulz-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Schulz, E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Schulz, E.</title>
+      <link>https://bmeder.org/authors/schulz-e./</link>
+    </image>
+    
+    <item>
+      <title>Developmental changes in exploration resemble stochastic optimization</title>
+      <link>https://bmeder.org/publication/2023-04-26_giron_et_al-2023-development-_optimization/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2023-04-26_giron_et_al-2023-development-_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of directed and random exploration in children</title>
+      <link>https://bmeder.org/publication/2021-02-04-directed__random_exploration_children/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2021-02-04-directed__random_exploration_children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarities and differences in spatial and non-spatial cognitive maps</title>
+      <link>https://bmeder.org/publication/2020-01-01_wu-2020neurogrid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2020-01-01_wu-2020neurogrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning functions actively</title>
+      <link>https://bmeder.org/publication/2020-08-28_jones-2019functions/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2020-08-28_jones-2019functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for rewards like a child means less generalization and more directed exploration</title>
+      <link>https://bmeder.org/publication/2019-01-01_schulz-2019kwg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2019-01-01_schulz-2019kwg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active function learning</title>
+      <link>https://bmeder.org/publication/2018-01-01_jones-2018activecogsci/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2018-01-01_jones-2018activecogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting conceptual and spatial search via a model of generalization</title>
+      <link>https://bmeder.org/publication/2018-01-01_wu-2018dq/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2018-01-01_wu-2018dq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization guides human exploration in vast decision spaces</title>
+      <link>https://bmeder.org/publication/2018-01-01_wu-2018grid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2018-01-01_wu-2018grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the unknown: The spatially correlated multi-armed bandit</title>
+      <link>https://bmeder.org/publication/2017-01-01_wu-2017cogscibandit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2017-01-01_wu-2017cogscibandit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple trees in complex forests: Growing Take The Best by approximate Bayesian computation</title>
+      <link>https://bmeder.org/publication/2016-01-01_schulz-2016wy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2016-01-01_schulz-2016wy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

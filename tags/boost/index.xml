@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boost | Björn Meder</title>
+    <link>/tags/boost/</link>
+      <atom:link href="/tags/boost/index.xml" rel="self" type="application/rss+xml" />
+    <description>boost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>boost</title>
+      <link>/tags/boost/</link>
+    </image>
+    
+    <item>
+      <title>Rapid-antigen testing for SARS-CoV-2 in Germany: Citizens’ selective granting of freedoms for negatively tested, vaccinated, recovered, and other citizens</title>
+      <link>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the confines of choice architecture: A critical analysis</title>
+      <link>/publication/2018-01-01_meder-2018choicearchitecture/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_meder-2018choicearchitecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nudging in der Primärprävention: Eine Übersicht und Perspektiven für Deutschland [The use of nudging for primary prevention: A review and perspectives for Germany]</title>
+      <link>/publication/2017-01-01_krisam-2017jj/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_krisam-2017jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating relative risk changes with baseline risk: presentation format and numeracy matter</title>
+      <link>/publication/2014-01-01-bodemer-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01-bodemer-2014risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

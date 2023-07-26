@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kahl, B. | Björn Meder</title>
+    <link>https://bmeder.org/authors/kahl-b./</link>
+      <atom:link href="https://bmeder.org/authors/kahl-b./index.xml" rel="self" type="application/rss+xml" />
+    <description>Kahl, B.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Kahl, B.</title>
+      <link>https://bmeder.org/authors/kahl-b./</link>
+    </image>
+    
+    <item>
+      <title>Visual–spatial dynamics of social learning in immersive environments</title>
+      <link>https://bmeder.org/publication/2023-07-04_wu_et_al-2023-social-learning/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2023-07-04_wu_et_al-2023-social-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialization and selective social attention establishes the balance between individual and social learning</title>
+      <link>https://bmeder.org/publication/2021-01-02-specialization-and-selective-social-attention-establishes-the-balance-between-individual-and-social-learning/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2021-01-02-specialization-and-selective-social-attention-establishes-the-balance-between-individual-and-social-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-knowledge | Richard Rau</title>
+    <link>/tags/self-knowledge/</link>
+      <atom:link href="/tags/self-knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-knowledge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Self-knowledge</title>
+      <link>/tags/self-knowledge/</link>
+    </image>
+    
+    <item>
+      <title>Self-knowledge of perceiver effects: Do people know how positively they tend to view targets relative to other people?</title>
+      <link>/publication/2023_04_01_pringle_et_al-inpress-self_knowledge_of_pes/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_04_01_pringle_et_al-inpress-self_knowledge_of_pes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

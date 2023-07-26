@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neth, H. | Björn Meder</title>
+    <link>https://bmeder.org/authors/neth-h./</link>
+      <atom:link href="https://bmeder.org/authors/neth-h./index.xml" rel="self" type="application/rss+xml" />
+    <description>Neth, H.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Neth, H.</title>
+      <link>https://bmeder.org/authors/neth-h./</link>
+    </image>
+    
+    <item>
+      <title>Heuristics: fast, frugal, and smart</title>
+      <link>https://bmeder.org/publication/2017-01-01_mousavi-2017vu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2017-01-01_mousavi-2017vu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homo heuristicus in the financial world: From risk management to managing uncertainty</title>
+      <link>https://bmeder.org/publication/2014-01-01_neth-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2014-01-01_neth-2014risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

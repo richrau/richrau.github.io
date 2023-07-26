@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causal models | Björn Meder</title>
+    <link>/tags/causal-models/</link>
+      <atom:link href="/tags/causal-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>causal models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>causal models</title>
+      <link>/tags/causal-models/</link>
+    </image>
+    
+    <item>
+      <title>Diagnostic causal reasoning with verbal information</title>
+      <link>/publication/2017-01-01_meder_2017verbal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_meder_2017verbal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From causal models to sound heuristic inference</title>
+      <link>/publication/2014-01-01_morais-2014causal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_morais-2014causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure induction in diagnostic causal reasoning</title>
+      <link>/publication/2014-01-01_meder-2014si/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_meder-2014si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeated causal decision making</title>
+      <link>/publication/2013-01-01_hagmayer-2013repeated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_hagmayer-2013repeated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential diagnostic reasoning with verbal information</title>
+      <link>/publication/2013-01-01_meder-2013verbal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_meder-2013verbal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How causal reasoning can bias empirical evidence</title>
+      <link>/publication/2010-01-01_hagmayer-2010te/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_hagmayer-2010te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous causal learning while controlling a dynamic system</title>
+      <link>/publication/2010-01-01_hagmayer-2010spont/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_hagmayer-2010spont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tight coupling between category and causal learning</title>
+      <link>/publication/2010-01-01_waldmann-2010bu/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_waldmann-2010bu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rational model of elemental diagnostic inference</title>
+      <link>/publication/2009-01-01_meder-2009rational/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_meder-2009rational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A transitivity heuristic of probabilistic causal reasoning</title>
+      <link>/publication/2009-01-01_vonsydow-2009trans/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_vonsydow-2009trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal induction enables adaptive decision making</title>
+      <link>/publication/2009-01-01_meder-2009causaldaptive/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_meder-2009causaldaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of learning data in causal reasoning about observations and interventions</title>
+      <link>/publication/2009-01-01_meder-2009el/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_meder-2009el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal learning through repeated decision making</title>
+      <link>/publication/2008-01-01_hagmayer-2008causal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-01-01_hagmayer-2008causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring interventional predictions from observational learning data</title>
+      <link>/publication/2008-01-01_meder-2008inferring/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-01-01_meder-2008inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing versus doing: Causal Bayes nets as psychological models of causal reasoning</title>
+      <link>/publication/2006-01-01_meder-2006thesis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/2006-01-01_meder-2006thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing after seeing</title>
+      <link>/publication/2005-01-01_meder-2005doing/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/2005-01-01_meder-2005doing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

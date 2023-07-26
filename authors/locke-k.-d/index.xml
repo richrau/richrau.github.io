@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&amp; Locke, K. D. | Richard Rau</title>
+    <link>/authors/locke-k.-d./</link>
+      <atom:link href="/authors/locke-k.-d./index.xml" rel="self" type="application/rss+xml" />
+    <description>&amp; Locke, K. D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>&amp; Locke, K. D.</title>
+      <link>/authors/locke-k.-d./</link>
+    </image>
+    
+  </channel>
+</rss>

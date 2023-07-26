@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>risk vs uncertainty | Björn Meder</title>
+    <link>/tags/risk-vs-uncertainty/</link>
+      <atom:link href="/tags/risk-vs-uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <description>risk vs uncertainty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>risk vs uncertainty</title>
+      <link>/tags/risk-vs-uncertainty/</link>
+    </image>
+    
+    <item>
+      <title>How should autonomous cars drive? A preference for defaults in moral judgments under risk and uncertainty</title>
+      <link>/publication/2018-01-01_meder-2018av/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_meder-2018av/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral hindsight</title>
+      <link>/publication/2017-01-01_fleischhut-2017moral/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_fleischhut-2017moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homo heuristicus in the financial world: From risk management to managing uncertainty</title>
+      <link>/publication/2014-01-01_neth-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_neth-2014risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

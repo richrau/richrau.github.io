@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadzibegovic, J. | Richard Rau</title>
+    <link>/authors/hadzibegovic-j./</link>
+      <atom:link href="/authors/hadzibegovic-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Hadzibegovic, J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hadzibegovic, J.</title>
+      <link>/authors/hadzibegovic-j./</link>
+    </image>
+    
+  </channel>
+</rss>

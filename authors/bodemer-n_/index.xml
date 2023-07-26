@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bodemer, N. | Björn Meder</title>
+    <link>https://bmeder.org/authors/bodemer-n./</link>
+      <atom:link href="https://bmeder.org/authors/bodemer-n./index.xml" rel="self" type="application/rss+xml" />
+    <description>Bodemer, N.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Bodemer, N.</title>
+      <link>https://bmeder.org/authors/bodemer-n./</link>
+    </image>
+    
+    <item>
+      <title>Communicating relative risk changes with baseline risk: presentation format and numeracy matter</title>
+      <link>https://bmeder.org/publication/2014-01-01-bodemer-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2014-01-01-bodemer-2014risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

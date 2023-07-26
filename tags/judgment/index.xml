@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>judgment | Richard Rau</title>
+    <link>/tags/judgment/</link>
+      <atom:link href="/tags/judgment/index.xml" rel="self" type="application/rss+xml" />
+    <description>judgment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>judgment</title>
+      <link>/tags/judgment/</link>
+    </image>
+    
+    <item>
+      <title>Perceiver effects in person perception reflect acquiescence, positivity, and trait-specific content: Evidence from a large-scale replication study</title>
+      <link>/publication/2022_01_01_heynicke_et_al-2022-structure_replication/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_01_01_heynicke_et_al-2022-structure_replication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

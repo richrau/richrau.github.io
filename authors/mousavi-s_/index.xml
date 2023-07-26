@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mousavi, S. | Björn Meder</title>
+    <link>https://bmeder.org/authors/mousavi-s./</link>
+      <atom:link href="https://bmeder.org/authors/mousavi-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Mousavi, S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Mousavi, S.</title>
+      <link>https://bmeder.org/authors/mousavi-s./</link>
+    </image>
+    
+    <item>
+      <title>Heuristics: fast, frugal, and smart</title>
+      <link>https://bmeder.org/publication/2017-01-01_mousavi-2017vu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2017-01-01_mousavi-2017vu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>person impression | Richard Rau</title>
+    <link>/tags/person-impression/</link>
+      <atom:link href="/tags/person-impression/index.xml" rel="self" type="application/rss+xml" />
+    <description>person impression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>person impression</title>
+      <link>/tags/person-impression/</link>
+    </image>
+    
+    <item>
+      <title>What is the structure of perceiver effects? On the importance of global positivity and trait-specificity across personality domains and judgment contexts.</title>
+      <link>/publication/2021_03_01_rau_et_al-2018-structure_of_pes/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_03_01_rau_et_al-2018-structure_of_pes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

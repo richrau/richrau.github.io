@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filimon, F. | Björn Meder</title>
+    <link>https://bmeder.org/authors/filimon-f./</link>
+      <atom:link href="https://bmeder.org/authors/filimon-f./index.xml" rel="self" type="application/rss+xml" />
+    <description>Filimon, F.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Filimon, F.</title>
+      <link>https://bmeder.org/authors/filimon-f./</link>
+    </image>
+    
+    <item>
+      <title>Asking better questions: How presentation formats influence information search</title>
+      <link>https://bmeder.org/publication/2017-01-01_wu_2017turtle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2017-01-01_wu_2017turtle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hagmayer, Y. | Björn Meder</title>
+    <link>https://bmeder.org/authors/hagmayer-y./</link>
+      <atom:link href="https://bmeder.org/authors/hagmayer-y./index.xml" rel="self" type="application/rss+xml" />
+    <description>Hagmayer, Y.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Hagmayer, Y.</title>
+      <link>https://bmeder.org/authors/hagmayer-y./</link>
+    </image>
+    
+    <item>
+      <title>Transitive reasoning distorts induction in causal chains</title>
+      <link>https://bmeder.org/publication/2015-01-01_vonsydow-2015fd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2015-01-01_vonsydow-2015fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeated causal decision making</title>
+      <link>https://bmeder.org/publication/2013-01-01_hagmayer-2013repeated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2013-01-01_hagmayer-2013repeated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Category transfer in sequential causal learning: The unbroken mechanism hypothesis</title>
+      <link>https://bmeder.org/publication/2011-01-01_hagmayer-2011mechanism/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2011-01-01_hagmayer-2011mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How causal reasoning can bias empirical evidence</title>
+      <link>https://bmeder.org/publication/2010-01-01_hagmayer-2010te/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2010-01-01_hagmayer-2010te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing and intervening: Rational and heuristic models of causal decision making</title>
+      <link>https://bmeder.org/publication/2010-01-01_meder-2010open/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2010-01-01_meder-2010open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous causal learning while controlling a dynamic system</title>
+      <link>https://bmeder.org/publication/2010-01-01_hagmayer-2010spont/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2010-01-01_hagmayer-2010spont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of learning data in causal reasoning about observations and interventions</title>
+      <link>https://bmeder.org/publication/2009-01-01_meder-2009el/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2009-01-01_meder-2009el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal learning through repeated decision making</title>
+      <link>https://bmeder.org/publication/2008-01-01_hagmayer-2008causal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2008-01-01_hagmayer-2008causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring interventional predictions from observational learning data</title>
+      <link>https://bmeder.org/publication/2008-01-01_meder-2008inferring/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2008-01-01_meder-2008inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing after seeing</title>
+      <link>https://bmeder.org/publication/2005-01-01_meder-2005doing/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2005-01-01_meder-2005doing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

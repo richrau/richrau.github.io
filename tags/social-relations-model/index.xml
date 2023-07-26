@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Relations Model | Richard Rau</title>
+    <link>/tags/social-relations-model/</link>
+      <atom:link href="/tags/social-relations-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Relations Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Social Relations Model</title>
+      <link>/tags/social-relations-model/</link>
+    </image>
+    
+    <item>
+      <title>Do agency and communion explain the relationship between perceiver and target effects in interpersonal perception? A meta-analysis on generalized reciprocity</title>
+      <link>/publication/2023_03_01_schauf_et_al-inpress-generalized_reciprocity_ma/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_03_01_schauf_et_al-inpress-generalized_reciprocity_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying multi-modal Social Relations Analyses in personality pathology research</title>
+      <link>/publication/2023_01_01_rau_et_al-2023-multimodel_sra/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_01_01_rau_et_al-2023-multimodel_sra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mayrhofer, R. | Björn Meder</title>
+    <link>https://bmeder.org/authors/mayrhofer-r./</link>
+      <atom:link href="https://bmeder.org/authors/mayrhofer-r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Mayrhofer, R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Mayrhofer, R.</title>
+      <link>https://bmeder.org/authors/mayrhofer-r./</link>
+    </image>
+    
+    <item>
+      <title>Developmental trajectories in the understanding of everyday uncertainty terms</title>
+      <link>https://bmeder.org/publication/2022-04-25_meder-2022uncertaintyterm/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2022-04-25_meder-2022uncertaintyterm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure induction in diagnostic causal reasoning</title>
+      <link>https://bmeder.org/publication/2014-01-01_meder-2014si/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2014-01-01_meder-2014si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rational model of elemental diagnostic inference</title>
+      <link>https://bmeder.org/publication/2009-01-01_meder-2009rational/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bmeder.org/publication/2009-01-01_meder-2009rational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

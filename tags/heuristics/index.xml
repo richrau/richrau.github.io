@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heuristics | Björn Meder</title>
+    <link>/tags/heuristics/</link>
+      <atom:link href="/tags/heuristics/index.xml" rel="self" type="application/rss+xml" />
+    <description>heuristics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>heuristics</title>
+      <link>/tags/heuristics/</link>
+    </image>
+    
+    <item>
+      <title>What makes a good query? Prospects for a comprehensive theory of human information acquisition</title>
+      <link>/publication/2022-06-01-what_makes_a_good_query/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-06-01-what_makes_a_good_query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stepwise versus globally optimal search in children and adults</title>
+      <link>/publication/2019-10-01-meder_2020stepwise/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-10-01-meder_2020stepwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How should autonomous cars drive? A preference for defaults in moral judgments under risk and uncertainty</title>
+      <link>/publication/2018-01-01_meder-2018av/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_meder-2018av/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized information theory meets human cognition: Introducing a unified framework to model uncertainty and information search</title>
+      <link>/publication/2018-01-01_crupi-2018entropy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crupi-2018entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a theory of heuristic and optimal planning for sequential information search</title>
+      <link>/publication/2020-01-01_nelson-2018sequential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_nelson-2018sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asking better questions: How presentation formats influence information search</title>
+      <link>/publication/2017-01-01_wu_2017turtle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_wu_2017turtle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic causal reasoning with verbal information</title>
+      <link>/publication/2017-01-01_meder_2017verbal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_meder_2017verbal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics: fast, frugal, and smart</title>
+      <link>/publication/2017-01-01_mousavi-2017vu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_mousavi-2017vu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informationssuche im Mathematikunterricht der Grundschule: Zahlenspiele und Fabelwesen als mögliches Lern-Lehrarrangement. [Information search in mathematics teaching in primary school: Number games and mythical creatures as a possible learning-teaching arrangement]</title>
+      <link>/publication/2017-01-01_knauber-school/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_knauber-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral hindsight</title>
+      <link>/publication/2017-01-01_fleischhut-2017moral/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_fleischhut-2017moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple trees in complex forests: Growing Take The Best by approximate Bayesian computation</title>
+      <link>/publication/2016-01-01_schulz-2016wy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_schulz-2016wy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitive reasoning distorts induction in causal chains</title>
+      <link>/publication/2015-01-01_vonsydow-2015fd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_vonsydow-2015fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children&#39;s sequential information search is sensitive to environmental probabilities</title>
+      <link>/publication/2014-01-01_nelson-2014children/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_nelson-2014children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From causal models to sound heuristic inference</title>
+      <link>/publication/2014-01-01_morais-2014causal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_morais-2014causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homo heuristicus in the financial world: From risk management to managing uncertainty</title>
+      <link>/publication/2014-01-01_neth-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_neth-2014risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical thinking: No one left behind</title>
+      <link>/publication/2014-01-01_meder-2014cg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_meder-2014cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The assumption of class-conditional independence in category learning</title>
+      <link>/publication/2013-01-01_jarecki-2013cci/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_jarecki-2013cci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How causal reasoning can bias empirical evidence</title>
+      <link>/publication/2010-01-01_hagmayer-2010te/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_hagmayer-2010te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing and intervening: Rational and heuristic models of causal decision making</title>
+      <link>/publication/2010-01-01_meder-2010open/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_meder-2010open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A transitivity heuristic of probabilistic causal reasoning</title>
+      <link>/publication/2009-01-01_vonsydow-2009trans/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_vonsydow-2009trans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

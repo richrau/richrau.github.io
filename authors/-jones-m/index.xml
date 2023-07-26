@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>\&amp; Jones, M. | Björn Meder</title>
+    <link>/authors//-jones-m./</link>
+      <atom:link href="/authors//-jones-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>\&amp; Jones, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>\&amp; Jones, M.</title>
+      <link>/authors//-jones-m./</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niemeyer, L. M. | Richard Rau</title>
+    <link>/authors/niemeyer-l.-m./</link>
+      <atom:link href="/authors/niemeyer-l.-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Niemeyer, L. M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Niemeyer, L. M.</title>
+      <link>/authors/niemeyer-l.-m./</link>
+    </image>
+    
+  </channel>
+</rss>

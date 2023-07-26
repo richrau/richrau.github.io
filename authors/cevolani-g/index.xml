@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cevolani, G. | Björn Meder</title>
+    <link>/authors/cevolani-g./</link>
+      <atom:link href="/authors/cevolani-g./index.xml" rel="self" type="application/rss+xml" />
+    <description>Cevolani, G.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Cevolani, G.</title>
+      <link>/authors/cevolani-g./</link>
+    </image>
+    
+  </channel>
+</rss>

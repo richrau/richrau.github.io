@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thielmann, I. | Richard Rau</title>
+    <link>/authors/thielmann-i./</link>
+      <atom:link href="/authors/thielmann-i./index.xml" rel="self" type="application/rss+xml" />
+    <description>Thielmann, I.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thielmann, I.</title>
+      <link>/authors/thielmann-i./</link>
+    </image>
+    
+  </channel>
+</rss>

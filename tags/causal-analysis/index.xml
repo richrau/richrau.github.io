@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causal analysis | Björn Meder</title>
+    <link>/tags/causal-analysis/</link>
+      <atom:link href="/tags/causal-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>causal analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>causal analysis</title>
+      <link>/tags/causal-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Learning from behavioural changes that fail</title>
+      <link>/publication/2020-10-28_osman_et_al_behaviouralchangesthatfail/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-10-28_osman_et_al_behaviouralchangesthatfail/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

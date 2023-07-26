@@ -1,0 +1,18 @@
+{
+  "name": "Richard Rau",
+  "short_name": "Richard Rau",
+  "lang": "en-us",
+  "theme_color": "#284f7a",
+  "background_color": "#284f7a",
+  "icons": [{
+    "src": "/images/icon_hu2d28e66244a17ae45af7fa197f61cfd7_10395_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu2d28e66244a17ae45af7fa197f61cfd7_10395_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

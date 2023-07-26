@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haebler, D. von | Richard Rau</title>
+    <link>/authors/haebler-d.-von/</link>
+      <atom:link href="/authors/haebler-d.-von/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haebler, D. von</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Haebler, D. von</title>
+      <link>/authors/haebler-d.-von/</link>
+    </image>
+    
+    <item>
+      <title>Measuring emotional awareness in patients with schizophrenia and schizoaffective disorders.</title>
+      <link>/publication/2021_01_01_maa%C3%9Fen_et_al-2021-emotional_awareness/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_01_01_maa%C3%9Fen_et_al-2021-emotional_awareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

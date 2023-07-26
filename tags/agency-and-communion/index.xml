@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agency and communion | Richard Rau</title>
+    <link>/tags/agency-and-communion/</link>
+      <atom:link href="/tags/agency-and-communion/index.xml" rel="self" type="application/rss+xml" />
+    <description>agency and communion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>agency and communion</title>
+      <link>/tags/agency-and-communion/</link>
+    </image>
+    
+    <item>
+      <title>Do agency and communion explain the relationship between perceiver and target effects in interpersonal perception? A meta-analysis on generalized reciprocity</title>
+      <link>/publication/2023_03_01_schauf_et_al-inpress-generalized_reciprocity_ma/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_03_01_schauf_et_al-inpress-generalized_reciprocity_ma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

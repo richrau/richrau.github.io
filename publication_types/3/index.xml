@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Björn Meder</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Visual–spatial dynamics of social learning in immersive environments</title>
+      <link>/publication/2023-07-04_wu_et_al-2023-social-learning/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-07-04_wu_et_al-2023-social-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid-antigen testing for SARS-CoV-2 in Germany: Citizens’ selective granting of freedoms for negatively tested, vaccinated, recovered, and other citizens</title>
+      <link>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Why) Is misinformation a problem?</title>
+      <link>/publication/2023-02-16_adams_et_al-2023-misinformation/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-02-16_adams_et_al-2023-misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental trajectories in the understanding of everyday uncertainty terms</title>
+      <link>/publication/2022-04-25_meder-2022uncertaintyterm/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-04-25_meder-2022uncertaintyterm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarities and differences in spatial and non-spatial cognitive maps</title>
+      <link>/publication/2020-01-01_wu-2020neurogrid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_wu-2020neurogrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning functions actively</title>
+      <link>/publication/2020-08-28_jones-2019functions/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-08-28_jones-2019functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a theory of heuristic and optimal planning for sequential information search</title>
+      <link>/publication/2020-01-01_nelson-2018sequential/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_nelson-2018sequential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

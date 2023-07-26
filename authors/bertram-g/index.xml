@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bertram, G. | Richard Rau</title>
+    <link>/authors/bertram-g./</link>
+      <atom:link href="/authors/bertram-g./index.xml" rel="self" type="application/rss+xml" />
+    <description>Bertram, G.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bertram, G.</title>
+      <link>/authors/bertram-g./</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Lec, F. | Björn Meder</title>
+    <link>/authors/le-lec-f./</link>
+      <atom:link href="/authors/le-lec-f./index.xml" rel="self" type="application/rss+xml" />
+    <description>Le Lec, F.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Le Lec, F.</title>
+      <link>/authors/le-lec-f./</link>
+    </image>
+    
+  </channel>
+</rss>

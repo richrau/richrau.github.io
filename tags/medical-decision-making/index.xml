@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical decision making | Björn Meder</title>
+    <link>/tags/medical-decision-making/</link>
+      <atom:link href="/tags/medical-decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <description>medical decision making</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>medical decision making</title>
+      <link>/tags/medical-decision-making/</link>
+    </image>
+    
+    <item>
+      <title>Rapid-antigen testing for SARS-CoV-2 in Germany: Citizens’ selective granting of freedoms for negatively tested, vaccinated, recovered, and other citizens</title>
+      <link>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-04-27_rebitschek_et_al-2023-rapid_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating relative risk changes with baseline risk: presentation format and numeracy matter</title>
+      <link>/publication/2014-01-01-bodemer-2014risk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01-bodemer-2014risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
