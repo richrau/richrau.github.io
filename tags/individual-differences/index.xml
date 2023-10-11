@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>individual differences | Richard Rau</title>
+    <link>/tags/individual-differences/</link>
+      <atom:link href="/tags/individual-differences/index.xml" rel="self" type="application/rss+xml" />
+    <description>individual differences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>individual differences</title>
+      <link>/tags/individual-differences/</link>
+    </image>
+    
+    <item>
+      <title>Individual differences in dissimilation: Do some people make more distinctions among targets’ personalities than others?</title>
+      <link>/publication/2023_10_11_carlson_et_al-20023-individual_differences_in_dissimilation/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_10_11_carlson_et_al-20023-individual_differences_in_dissimilation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
