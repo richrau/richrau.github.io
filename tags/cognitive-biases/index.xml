@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cognitive biases | Richard Rau</title>
+    <link>/tags/cognitive-biases/</link>
+      <atom:link href="/tags/cognitive-biases/index.xml" rel="self" type="application/rss+xml" />
+    <description>cognitive biases</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>cognitive biases</title>
+      <link>/tags/cognitive-biases/</link>
+    </image>
+    
+    <item>
+      <title>I Think You Might Like Me: Emergence and Change of Meta-Liking in Initial Social Interactions</title>
+      <link>/publication/2024_01_10_bleckmann_et_al-2024-metaliking/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_01_10_bleckmann_et_al-2024-metaliking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
