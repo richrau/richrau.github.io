@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&amp; Scharf, S. | Richard Rau</title>
+    <link>/authors/scharf-s./</link>
+      <atom:link href="/authors/scharf-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>&amp; Scharf, S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>&amp; Scharf, S.</title>
+      <link>/authors/scharf-s./</link>
+    </image>
+    
+  </channel>
+</rss>
