@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Which measures of beliefs about others’ prosociality predict prosocial behavior in economic games?</title>
+      <link>/publication/2024-06-18-schaepermeier_et_al-2024-beliefs_about_others_prosociality/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-06-18-schaepermeier_et_al-2024-beliefs_about_others_prosociality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Monte Carlo Simulation to forecast the scientific utility of psychological app studies: A tutorial</title>

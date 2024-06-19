@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generalized trust | Richard Rau</title>
+    <link>/tags/generalized-trust/</link>
+      <atom:link href="/tags/generalized-trust/index.xml" rel="self" type="application/rss+xml" />
+    <description>generalized trust</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>generalized trust</title>
+      <link>/tags/generalized-trust/</link>
+    </image>
+    
+    <item>
+      <title>Which measures of beliefs about others’ prosociality predict prosocial behavior in economic games?</title>
+      <link>/publication/2024-06-18-schaepermeier_et_al-2024-beliefs_about_others_prosociality/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-06-18-schaepermeier_et_al-2024-beliefs_about_others_prosociality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
