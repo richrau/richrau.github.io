@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>social desirability | Richard Rau</title>
-    <link>/tags/social-desirability/</link>
-      <atom:link href="/tags/social-desirability/index.xml" rel="self" type="application/rss+xml" />
-    <description>social desirability</description>
+    <title>impression management | Richard Rau</title>
+    <link>/tags/impression-management/</link>
+      <atom:link href="/tags/impression-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>impression management</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>social desirability</title>
-      <link>/tags/social-desirability/</link>
+      <title>impression management</title>
+      <link>/tags/impression-management/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/2025_02_28_rau_et_al-2025-faking/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/publication/2025_02_28_rau_et_al-2025-faking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trait-specificity versus global positivity: A critical test of alternative sources of assumed similarity in personality judgments</title>
-      <link>/publication/2023_02_01_thielmann_et_al-2023-trait_specific_as/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023_02_01_thielmann_et_al-2023-trait_specific_as/</guid>
       <description></description>
     </item>
     
