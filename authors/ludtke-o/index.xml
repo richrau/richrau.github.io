@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lüdtke, O. | Richard Rau</title>
+    <link>/authors/ludtke-o./</link>
+      <atom:link href="/authors/ludtke-o./index.xml" rel="self" type="application/rss+xml" />
+    <description>Lüdtke, O.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lüdtke, O.</title>
+      <link>/authors/ludtke-o./</link>
+    </image>
+    
+  </channel>
+</rss>
