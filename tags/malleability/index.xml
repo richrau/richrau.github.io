@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>malleability | Richard Rau</title>
+    <link>/tags/malleability/</link>
+      <atom:link href="/tags/malleability/index.xml" rel="self" type="application/rss+xml" />
+    <description>malleability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>malleability</title>
+      <link>/tags/malleability/</link>
+    </image>
+    
+    <item>
+      <title>Trait-specificity versus global positivity: A critical test of alternative sources of assumed similarity in personality judgments</title>
+      <link>/publication/2026_01_01_thielmann_et_al-self_knowledge/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_01_thielmann_et_al-self_knowledge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

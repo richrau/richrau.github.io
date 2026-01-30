@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hopwood, C. J. | Richard Rau</title>
+    <link>/authors/hopwood-c.-j./</link>
+      <atom:link href="/authors/hopwood-c.-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Hopwood, C. J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hopwood, C. J.</title>
+      <link>/authors/hopwood-c.-j./</link>
+    </image>
+    
+  </channel>
+</rss>

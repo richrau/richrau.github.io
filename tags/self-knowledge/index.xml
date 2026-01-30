@@ -5,12 +5,20 @@
     <link>/tags/self-knowledge/</link>
       <atom:link href="/tags/self-knowledge/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-knowledge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Self-knowledge</title>
       <link>/tags/self-knowledge/</link>
     </image>
+    
+    <item>
+      <title>Trait-specificity versus global positivity: A critical test of alternative sources of assumed similarity in personality judgments</title>
+      <link>/publication/2026_01_01_thielmann_et_al-self_knowledge/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_01_thielmann_et_al-self_knowledge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-knowledge of perceiver effects: Do people know how positively they tend to view targets relative to other people?</title>

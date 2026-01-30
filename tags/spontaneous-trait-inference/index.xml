@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spontaneous trait inference | Richard Rau</title>
+    <link>/tags/spontaneous-trait-inference/</link>
+      <atom:link href="/tags/spontaneous-trait-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>spontaneous trait inference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>spontaneous trait inference</title>
+      <link>/tags/spontaneous-trait-inference/</link>
+    </image>
+    
+    <item>
+      <title>Perceiver Positivity Differences Originate in Early-Stage Impression Formation: Evidence from a Recognition Task</title>
+      <link>/publication/2026_01_30_rau_et_al-early_stage_positivity/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_30_rau_et_al-early_stage_positivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

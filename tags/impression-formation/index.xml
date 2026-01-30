@@ -5,12 +5,20 @@
     <link>/tags/impression-formation/</link>
       <atom:link href="/tags/impression-formation/index.xml" rel="self" type="application/rss+xml" />
     <description>impression formation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>impression formation</title>
       <link>/tags/impression-formation/</link>
     </image>
+    
+    <item>
+      <title>Perceiver Positivity Differences Originate in Early-Stage Impression Formation: Evidence from a Recognition Task</title>
+      <link>/publication/2026_01_30_rau_et_al-early_stage_positivity/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_30_rau_et_al-early_stage_positivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perceiver effects in person perception reflect acquiescence, positivity, and trait-specific content: Evidence from a large-scale replication study</title>

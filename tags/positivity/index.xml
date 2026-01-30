@@ -5,12 +5,20 @@
     <link>/tags/positivity/</link>
       <atom:link href="/tags/positivity/index.xml" rel="self" type="application/rss+xml" />
     <description>positivity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>positivity</title>
       <link>/tags/positivity/</link>
     </image>
+    
+    <item>
+      <title>Perceiver Positivity Differences Originate in Early-Stage Impression Formation: Evidence from a Recognition Task</title>
+      <link>/publication/2026_01_30_rau_et_al-early_stage_positivity/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_30_rau_et_al-early_stage_positivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Positivity in peer perceptions over time: Personality explains variation at zero-acquaintance, popularity explains differential change</title>
