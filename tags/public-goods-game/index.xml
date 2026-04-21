@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public goods game | Richard Rau</title>
+    <link>/tags/public-goods-game/</link>
+      <atom:link href="/tags/public-goods-game/index.xml" rel="self" type="application/rss+xml" />
+    <description>public goods game</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>public goods game</title>
+      <link>/tags/public-goods-game/</link>
+    </image>
+    
+    <item>
+      <title>Receiving applause &#34;from the right&#34;: Punishing freeriders is socially rewarded by those high in right-wing authoritarianism</title>
+      <link>/publication/2026_21_04_rau_et_al-2026-status-from-rwa-peers/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_21_04_rau_et_al-2026-status-from-rwa-peers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
