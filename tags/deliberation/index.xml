@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deliberation | Richard Rau</title>
+    <link>/tags/deliberation/</link>
+      <atom:link href="/tags/deliberation/index.xml" rel="self" type="application/rss+xml" />
+    <description>deliberation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>deliberation</title>
+      <link>/tags/deliberation/</link>
+    </image>
+    
+    <item>
+      <title>Intuitive judgments of strangers are more popular but not more accurate than deliberate ones</title>
+      <link>/publication/2026_05_04_remmers_et_al_intuition_who_knows/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_05_04_remmers_et_al_intuition_who_knows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
