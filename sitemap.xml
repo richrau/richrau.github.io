@@ -95,6 +95,24 @@
     <loc>/tags/spontaneous-trait-inference/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/human-computer-interaction/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/individual-differences/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2026_01_02_schoedel_et_al-2026-ai/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/llms/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/personality/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/2026_01_01_thielmann_et_al-2026-self_knowledge/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -236,9 +254,6 @@
     <loc>/publication/2024_01_10_bleckmann_et_al-2024-metaliking/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/individual-differences/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/2024_01_01_carlson_et_al-2024-individual_differences_in_dissimilation/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -246,9 +261,6 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/meta-liking/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/personality/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/within-person-variability/</loc>
@@ -421,6 +433,10 @@
   </url><url>
     <loc>/authors/wiedenroth-a./</loc>
   </url><url>
+    <loc>/authors/ziegler-m./</loc>
+  </url><url>
+    <loc>/authors/altgassen-e./</loc>
+  </url><url>
     <loc>/authors/anoschin-a./</loc>
   </url><url>
     <loc>/authors/back-m.-d./</loc>
@@ -439,9 +455,13 @@
   </url><url>
     <loc>/authors/brocker-a.-l./</loc>
   </url><url>
+    <loc>/authors/buhner-m./</loc>
+  </url><url>
     <loc>/authors/bukowski-h./</loc>
   </url><url>
     <loc>/authors/burghardt-m./</loc>
+  </url><url>
+    <loc>/authors/buss-m./</loc>
   </url><url>
     <loc>/authors/buttner-m./</loc>
   </url><url>
@@ -451,23 +471,35 @@
   </url><url>
     <loc>/authors/elsaadawy-n./</loc>
   </url><url>
+    <loc>/authors/etzel-j.-m./</loc>
+  </url><url>
     <loc>/authors/garbe-l.//</loc>
   </url><url>
     <loc>/authors/gebauer-j.-e./</loc>
   </url><url>
     <loc>/authors/geukes-k./</loc>
   </url><url>
+    <loc>/authors/goecke-b./</loc>
+  </url><url>
     <loc>/authors/grapsas-s.//</loc>
+  </url><url>
+    <loc>/authors/grinschgl-s./</loc>
   </url><url>
     <loc>/authors/grosz-m.-p./</loc>
   </url><url>
+    <loc>/authors/grunenberg-e./</loc>
+  </url><url>
     <loc>/authors/hadzibegovic-j./</loc>
+  </url><url>
+    <loc>/authors/hatscher-o./</loc>
   </url><url>
     <loc>/authors/heynicke-m./</loc>
   </url><url>
     <loc>/authors/hofer-g./</loc>
   </url><url>
     <loc>/authors/hofmann-w./</loc>
+  </url><url>
+    <loc>/authors/hommel-b.-e./</loc>
   </url><url>
     <loc>/authors/honig-l.//</loc>
   </url><url>
@@ -479,6 +511,10 @@
   </url><url>
     <loc>/authors/just-s.-a./</loc>
   </url><url>
+    <loc>/authors/kordsmeyer-t.-l./</loc>
+  </url><url>
+    <loc>/authors/korner-s./</loc>
+  </url><url>
     <loc>/authors/kraft-l./</loc>
   </url><url>
     <loc>/authors/krause-s./</loc>
@@ -486,6 +522,8 @@
     <loc>/authors/krueger-j.-i./</loc>
   </url><url>
     <loc>/authors/kueppers-s./</loc>
+  </url><url>
+    <loc>/authors/kuper-n./</loc>
   </url><url>
     <loc>/authors/langdon-j./</loc>
   </url><url>
@@ -499,6 +537,10 @@
   </url><url>
     <loc>/authors/maa%C3%9Fen-e./</loc>
   </url><url>
+    <loc>/authors/mata-r./</loc>
+  </url><url>
+    <loc>/authors/mussel-p./</loc>
+  </url><url>
     <loc>/authors/nestler-s./</loc>
   </url><url>
     <loc>/authors/nestler-w./</loc>
@@ -507,9 +549,13 @@
   </url><url>
     <loc>/authors/nikoleizig-l./</loc>
   </url><url>
+    <loc>/authors/petrasch-a./</loc>
+  </url><url>
     <loc>/post/</loc>
   </url><url>
     <loc>/authors/pringle-v./</loc>
+  </url><url>
+    <loc>/authors/rammstedt-b./</loc>
   </url><url>
     <loc>/authors/rau-r./</loc>
   </url><url>
@@ -523,11 +569,21 @@
   </url><url>
     <loc>/authors/schauf-t./</loc>
   </url><url>
+    <loc>/authors/schoedel-r./</loc>
+  </url><url>
     <loc>/authors/schomann-l.-m.//</loc>
+  </url><url>
+    <loc>/authors/short-c.-a./</loc>
+  </url><url>
+    <loc>/authors/sindermann-c./</loc>
   </url><url>
     <loc>/authors/smillie-l.-d./</loc>
   </url><url>
     <loc>/authors/srivastava-s./</loc>
+  </url><url>
+    <loc>/authors/stachl-c./</loc>
+  </url><url>
+    <loc>/authors/stasielowicz-l./</loc>
   </url><url>
     <loc>/authors/strohminger-n./</loc>
   </url><url>
@@ -535,7 +591,11 @@
   </url><url>
     <loc>/authors/sun-j./</loc>
   </url><url>
+    <loc>/authors/sust-l./</loc>
+  </url><url>
     <loc>/authors/ter-horst-j./</loc>
+  </url><url>
+    <loc>/authors/thelen-j./</loc>
   </url><url>
     <loc>/authors/thielmann-i./</loc>
   </url><url>
@@ -547,7 +607,15 @@
   </url><url>
     <loc>/authors/weiner-l./</loc>
   </url><url>
+    <loc>/authors/weiss-s./</loc>
+  </url><url>
     <loc>/authors/wessels-n./</loc>
+  </url><url>
+    <loc>/authors/wilhelm-o./</loc>
+  </url><url>
+    <loc>/authors/wrzus-c./</loc>
+  </url><url>
+    <loc>/authors/wulff-d./</loc>
   </url><url>
     <loc>/authors/zimmermann-j./</loc>
   </url>

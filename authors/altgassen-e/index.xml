@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Altgassen, E. | Richard Rau</title>
+    <link>/authors/altgassen-e./</link>
+      <atom:link href="/authors/altgassen-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Altgassen, E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Altgassen, E.</title>
+      <link>/authors/altgassen-e./</link>
+    </image>
+    
+  </channel>
+</rss>

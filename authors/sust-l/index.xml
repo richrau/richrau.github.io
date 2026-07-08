@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sust, L. | Richard Rau</title>
+    <link>/authors/sust-l./</link>
+      <atom:link href="/authors/sust-l./index.xml" rel="self" type="application/rss+xml" />
+    <description>Sust, L.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sust, L.</title>
+      <link>/authors/sust-l./</link>
+    </image>
+    
+  </channel>
+</rss>

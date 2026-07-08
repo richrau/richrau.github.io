@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bühner, M. | Richard Rau</title>
+    <link>/authors/buhner-m./</link>
+      <atom:link href="/authors/buhner-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Bühner, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bühner, M.</title>
+      <link>/authors/buhner-m./</link>
+    </image>
+    
+  </channel>
+</rss>

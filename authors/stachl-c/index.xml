@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stachl, C. | Richard Rau</title>
+    <link>/authors/stachl-c./</link>
+      <atom:link href="/authors/stachl-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Stachl, C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Stachl, C.</title>
+      <link>/authors/stachl-c./</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human-computer interaction | Richard Rau</title>
+    <link>/tags/human-computer-interaction/</link>
+      <atom:link href="/tags/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>human-computer interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>human-computer interaction</title>
+      <link>/tags/human-computer-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Künstliche Intelligenz und Individuelle Unterschiede. Eine Perspektive der Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik</title>
+      <link>/publication/2026_01_02_schoedel_et_al-2026-ai/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_01_02_schoedel_et_al-2026-ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

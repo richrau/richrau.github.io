@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilhelm, O. | Richard Rau</title>
+    <link>/authors/wilhelm-o./</link>
+      <atom:link href="/authors/wilhelm-o./index.xml" rel="self" type="application/rss+xml" />
+    <description>Wilhelm, O.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wilhelm, O.</title>
+      <link>/authors/wilhelm-o./</link>
+    </image>
+    
+  </channel>
+</rss>
