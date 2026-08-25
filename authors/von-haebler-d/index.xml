@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>von Haebler, D. | Richard Rau</title>
+    <link>/authors/von-haebler-d./</link>
+      <atom:link href="/authors/von-haebler-d./index.xml" rel="self" type="application/rss+xml" />
+    <description>von Haebler, D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>von Haebler, D.</title>
+      <link>/authors/von-haebler-d./</link>
+    </image>
+    
+  </channel>
+</rss>
