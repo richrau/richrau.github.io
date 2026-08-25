@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-report prediction accuracy | Richard Rau</title>
+    <link>/tags/self-report-prediction-accuracy/</link>
+      <atom:link href="/tags/self-report-prediction-accuracy/index.xml" rel="self" type="application/rss+xml" />
+    <description>self-report prediction accuracy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>self-report prediction accuracy</title>
+      <link>/tags/self-report-prediction-accuracy/</link>
+    </image>
+    
+    <item>
+      <title>Item features affect how well people can predict self-reported personality traces of strangers</title>
+      <link>/publication/2026_06_24_rau_et_al-2026-item_characteristics/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_06_24_rau_et_al-2026-item_characteristics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
